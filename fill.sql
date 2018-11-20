@@ -1,1 +1,1 @@
-select *
+INSERT INTO client (name, birth_date, id, animal_id) VALUES('Миша', '1999-05-20', 1, 1);
